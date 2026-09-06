@@ -29,7 +29,7 @@ db = firestore.client()
 # --- CONFIGURATION ---
 BOT_TOKEN = "8857888643:AAHWFTfcv9IoQHK-5p2NQRg2t0XoI6Bx4Gg"
 ADMIN_ID = 8914163493  # आपकी एडमिन आईडी
-UPI_ID = "yourname@oksbi"  # यहाँ बाद में अपनी असली UPI ID डाल सकते हैं
+UPI_ID = "9707390928@fam"  # यहाँ बाद में अपनी असली UPI ID डाल सकते हैं
 
 # --- START COMMAND ---
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
